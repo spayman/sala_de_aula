@@ -1,0 +1,6 @@
+#  adicionam todas as alterações ao commit e confirmam as alterações no repositório local.
+git add .
+git commit -m "Primeiro commit"
+
+# enviar as alterações para o repositório remoto no GitHub:
+git push origin master
